@@ -1,1 +1,2 @@
-This is a final template for [Learn Next.js](https://nextjs.org/learn).
+# bbaibot
+code for booming bulls ai bot app.
