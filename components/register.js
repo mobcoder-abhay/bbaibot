@@ -59,7 +59,7 @@ const Register = () => {
         let config = {
             method: 'post',
             maxBodyLength: Infinity,
-            url: 'http://localhost:1234/api/users',
+            url: 'https://api.boomingbulls.org/api/users/',
             headers: { 
                 'Content-Type': 'application/json'
             },

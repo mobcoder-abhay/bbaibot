@@ -28,7 +28,7 @@ const SignIn = () => {
                 let config = {
                 method: 'get',
                 maxBodyLength: Infinity,
-                url: 'http://localhost:1234/api/users/'+email.toLowerCase()+'',
+                url: 'https://api.boomingbulls.org/api/users/'+email.toLowerCase()+'',
                 headers: { },
                 data : data
                 };
